@@ -3,7 +3,7 @@
 **Student:** Elad Shoham | **I.D:** 205439649 | **Email:** elads361@gmail.com
 
 A machine learning project that predicts the nightly price of Airbnb listings
-in New York City, built for the *Theory of Data Science* course.
+in New York City, built for the *Theoretical Data Science* course.
 
 The project demonstrates core theoretical concepts from the course:
 k-fold cross-validation, bias-variance tradeoff, regularisation (SRM),
